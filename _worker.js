@@ -1,5 +1,5 @@
 // 定义一个名为 mytoken 的变量，并将 'passwd' 作为默认的读写权限1
-let mytoken= 'passwd';
+let mytoken= 'admin';
 
 export default {
 	async fetch (request, env) {
